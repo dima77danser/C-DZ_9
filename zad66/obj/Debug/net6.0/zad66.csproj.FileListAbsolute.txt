@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.AssemblyInfo.cs
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/bin/Debug/net6.0/zad66
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/bin/Debug/net6.0/zad66.deps.json
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/bin/Debug/net6.0/zad66.runtimeconfig.json
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/bin/Debug/net6.0/zad66.dll
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/bin/Debug/net6.0/zad66.pdb
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.dll
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/refint/zad66.dll
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.pdb
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/zad66.genruntimeconfig.cache
+/Users/LukashinD/Desktop/Учеба/C#DZ_9/zad66/obj/Debug/net6.0/ref/zad66.dll
